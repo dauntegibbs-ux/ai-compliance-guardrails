@@ -63,13 +63,6 @@ A targeted anomalous dataset containing borderline non-compliant metrics (\(28.0
 
 ---
 
-## 💾 Step 3: Save Your Changes
-1. Once the code is pasted into the box, scroll to the bottom of the page.
-2. Click the green button that says **Commit changes...** 
-3. A small confirmation window will pop up—just click the green **Commit changes** button inside it to lock it in.
-
-Let me know once you save it, and your portfolio home page will look absolutely magnificent!
-
 ---
 
 ## 📂 Case Study 2: Multi-Dimensional Matrix Optimization & Macro-Economic Housing Analytics
