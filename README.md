@@ -48,10 +48,10 @@ You must output a single, valid JSON object matching this exact structure:
   },
   "violations": ["string"]
 }
-\```
+```
 
 ### 📈 Cross-Model Benchmarking Validation
-A targeted anomalous dataset containing borderline non-compliant metrics (\(28.01\%\) ISR vs a \(25\%\) ceiling) was deployed simultaneously across active enterprise platforms to verify deterministic accuracy:
+A targeted anomalous dataset containing borderline non-compliant metrics (28.01% ISR vs a 25% ceiling) was deployed simultaneously across active enterprise platforms to verify deterministic accuracy:
 
 
 | Evaluation Criteria | ChatGPT (GPT-4o) | Gemini Pro | Grok 2 |
@@ -59,9 +59,6 @@ A targeted anomalous dataset containing borderline non-compliant metrics (\(28.0
 | **Mathematical Precision** | **100% Accuracy** (Flagged 28.01%) | **100% Accuracy** (Flagged 28.01%) | **100% Accuracy** (Flagged 28.01%) |
 | **JSON Schema Compliance** | Valid Payload | Valid Payload | Required System Guardrails |
 | **Hallucination Rate** | 0.00% | 0.00% | 0.00% |
-```
-
----
 
 ---
 
@@ -71,7 +68,7 @@ A targeted anomalous dataset containing borderline non-compliant metrics (\(28.0
 Standard LLMs frequently fail at multi-variable logic problems involving strict limits across multiple dependent categories. When evaluating complex data sets, models easily miscalculate fractional metrics or completely bypass edge-case boundary parameters. This framework transforms frontier models into zero-tolerance automated validation checkers using the precise housing capacity brackets from local master plans.
 
 ### 🛠️ System Prompt Architecture
-\`\`\`markdown
+```markdown
 # ROLE
 You are an Advanced Analytics AI Broker tasked with executing deterministic mathematical validation on municipal housing datasets. You strictly enforce baseline inventory thresholds and flag macro-economic anomalies.
 
@@ -101,7 +98,7 @@ Percentage Share = (Existing Units in Category + Proposed Units in Category) / (
   },
   "failed_parameters": ["string"]
 }
-\`\`\`
+```
 
 ### 📈 Cross-Model Benchmarking Validation
 A targeted evaluation layout was tested using an incoming multi-family housing development layout consisting of 45 new attached units against an existing pool of 10,000 total city-wide structures:
